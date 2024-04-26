@@ -13,13 +13,13 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminOnly": {
-    "enable": false,
+    "enable": true,
     "ignoreCommand": [],
     "hideNotiMessage": true
   },
   "adminBot": [
     "",
-    "100043424376000",
+    "100075799987253",
     "",
     "",
     "",
@@ -27,19 +27,19 @@
   ],
   "hiZadas": [
     "",
-    "100090700401869",
-    "100086975430183",
-    "100061328660966",
-    "73929743983477",
-    "100014104000510"
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "SANATNI",
-  "prefix": "-",
+  "nickNameBot": "😂",
+  "prefix": "$",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
